@@ -55,3 +55,6 @@
 [submodule "poetry/chinese-poetry-zhCN"]
 	path = poetry/chinese-poetry-zhCN
 	url = https://github.com/chinese-poetry/chinese-poetry-zhCN.git
+[submodule "tensorflow/model_analysis"]
+	path = tensorflow/model_analysis
+	url = https://github.com/tensorflow/model-analysis.git
