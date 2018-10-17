@@ -1,0 +1,60 @@
+[submodule "model_analysis"]
+	path = model_analysis
+	url = https://github.com/tensorflow/model-analysis.git
+[submodule "video/DensePose"]
+	path = video/DensePose
+	url = https://github.com/facebookresearch/DensePose.git
+[submodule "NLP/fairseq"]
+	path = NLP/fairseq
+	url = https://github.com/facebookresearch/fairseq.git
+[submodule "tensorflow/tensor2tensor"]
+	path = tensorflow/tensor2tensor
+	url = https://github.com/tensorflow/tensor2tensor.git
+[submodule "NLP/seq2seq"]
+	path = NLP/seq2seq
+	url = https://github.com/google/seq2seq.git
+[submodule "data/awesome-datascience"]
+	path = data/awesome-datascience
+	url = https://github.com/bulutyazilim/awesome-datascience.git
+[submodule "tensorflow/Distributed-TensorFlow-Guide"]
+	path = tensorflow/Distributed-TensorFlow-Guide
+	url = https://github.com/tmulc18/Distributed-TensorFlow-Guide.git
+[submodule "gan/iGAN"]
+	path = gan/iGAN
+	url = https://github.com/junyanz/iGAN.git
+[submodule "NLP/fastText"]
+	path = NLP/fastText
+	url = https://github.com/facebookresearch/fastText.git
+[submodule "art/magenta"]
+	path = art/magenta
+	url = https://github.com/tensorflow/magenta.git
+[submodule "stock/StockPrediction"]
+	path = stock/StockPrediction
+	url = https://github.com/IsaacChanghau/StockPrediction.git
+[submodule "stock/stock-rnn"]
+	path = stock/stock-rnn
+	url = https://github.com/lilianweng/stock-rnn.git
+[submodule "game/DeepLearningFlappyBird"]
+	path = game/DeepLearningFlappyBird
+	url = https://github.com/yenchenlin/DeepLearningFlappyBird.git
+[submodule "video/tvnet"]
+	path = video/tvnet
+	url = https://github.com/LijieFan/tvnet.git
+[submodule "pytorch/ELF"]
+	path = pytorch/ELF
+	url = https://github.com/pytorch/ELF.git
+[submodule "game/PhoenixGo"]
+	path = game/PhoenixGo
+	url = https://github.com/Tencent/PhoenixGo.git
+[submodule "data/Chinese-Word-Vectors"]
+	path = data/Chinese-Word-Vectors
+	url = https://github.com/Embedding/Chinese-Word-Vectors.git
+[submodule "stock/data/stocknet-dataset"]
+	path = stock/data/stocknet-dataset
+	url = https://github.com/yumoxu/stocknet-dataset.git
+[submodule "video/yolo-9000"]
+	path = video/yolo-9000
+	url = https://github.com/philipperemy/yolo-9000.git
+[submodule "poetry/chinese-poetry-zhCN"]
+	path = poetry/chinese-poetry-zhCN
+	url = https://github.com/chinese-poetry/chinese-poetry-zhCN.git
