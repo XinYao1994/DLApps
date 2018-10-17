@@ -58,3 +58,24 @@
 [submodule "tensorflow/model_analysis"]
 	path = tensorflow/model_analysis
 	url = https://github.com/tensorflow/model-analysis.git
+[submodule "video/DBNet"]
+	path = video/DBNet
+	url = https://github.com/driving-behavior/DBNet
+[submodule "toturials/100-Days-Of-ML-Code"]
+	path = toturials/100-Days-Of-ML-Code
+	url = https://github.com/Avik-Jain/100-Days-Of-ML-Code.git
+[submodule "pytorch/Detectron"]
+	path = pytorch/Detectron
+	url = https://github.com/facebookresearch/Detectron.git
+[submodule "Image/MemeProject"]
+	path = Image/MemeProject
+	url = https://github.com/alpv95/MemeProject.git
+[submodule "toturials/pytorch-tutorial"]
+	path = toturials/pytorch-tutorial
+	url = https://github.com/yunjey/pytorch-tutorial.git
+[submodule "NLP/OpenNMT-py"]
+	path = NLP/OpenNMT-py
+	url = https://github.com/OpenNMT/OpenNMT-py.git
+[submodule "writer/AAPR"]
+	path = writer/AAPR
+	url = https://github.com/lancopku/AAPR.git
