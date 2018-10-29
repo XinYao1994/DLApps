@@ -79,3 +79,9 @@
 [submodule "writer/AAPR"]
 	path = writer/AAPR
 	url = https://github.com/lancopku/AAPR.git
+[submodule "data/tencent-ml-images"]
+	path = data/tencent-ml-images
+	url = https://github.com/Tencent/tencent-ml-images.git
+[submodule "Image/DeepCreamPy"]
+	path = Image/DeepCreamPy
+	url = https://github.com/deeppomf/DeepCreamPy.git
