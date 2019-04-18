@@ -85,3 +85,9 @@
 [submodule "Image/DeepCreamPy"]
 	path = Image/DeepCreamPy
 	url = https://github.com/deeppomf/DeepCreamPy.git
+[submodule "NLP/bert"]
+	path = NLP/bert
+	url = https://github.com/google-research/bert.git
+[submodule "tensorflow/morph-net"]
+	path = tensorflow/morph-net
+	url = https://github.com/google-research/morph-net
