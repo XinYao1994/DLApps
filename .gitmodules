@@ -97,3 +97,21 @@
 [submodule "tensorflow/TecoGAN"]
 	path = tensorflow/TecoGAN
 	url = https://github.com/thunil/TecoGAN.git
+[submodule "game/AlphaGOZero-python-tensorflow"]
+	path = game/AlphaGOZero-python-tensorflow
+	url = https://github.com/yhyu13/AlphaGOZero-python-tensorflow.git
+[submodule "game/icyChessZero"]
+	path = game/icyChessZero
+	url = https://github.com/bupticybee/icyChessZero.git
+[submodule "game/Caffe_AlphaZero"]
+	path = game/Caffe_AlphaZero
+	url = https://github.com/adepierre/Caffe_AlphaZero.git
+[submodule "imbalanced-algorithms"]
+	path = imbalanced-algorithms
+	url = https://github.com/dialnd/imbalanced-algorithms.git
+[submodule "federated/leaf"]
+	path = federated/leaf
+	url = https://github.com/TalwalkarLab/leaf.git
+[submodule "learn/500Q"]
+	path = learn/500Q
+	url = https://github.com/scutan90/DeepLearning-500-questions.git
