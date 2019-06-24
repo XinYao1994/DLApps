@@ -115,3 +115,18 @@
 [submodule "learn/500Q"]
 	path = learn/500Q
 	url = https://github.com/scutan90/DeepLearning-500-questions.git
+[submodule "invest/bitcoin"]
+	path = invest/bitcoin
+	url = https://github.com/notadamking/Bitcoin-Trader-RL
+[submodule "gan/Keras"]
+	path = gan/Keras
+	url = https://github.com/eriklindernoren/Keras-GAN.git
+[submodule "gan/Pytorch"]
+	path = gan/Pytorch
+	url = https://github.com/eriklindernoren/PyTorch-GAN.git
+[submodule "writer/xlnet"]
+	path = writer/xlnet
+	url = https://github.com/zihangdai/xlnet.git
+[submodule "write/paperrobot"]
+	path = write/paperrobot
+	url = https://github.com/EagleW/PaperRobot.git
