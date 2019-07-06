@@ -130,3 +130,15 @@
 [submodule "write/paperrobot"]
 	path = write/paperrobot
 	url = https://github.com/EagleW/PaperRobot.git
+[submodule "Image/DeepNude"]
+	path = Image/DeepNude
+	url = https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology.git
+[submodule "network/awesome-capsule-networks"]
+	path = network/awesome-capsule-networks
+	url = https://github.com/sekwiatkowski/awesome-capsule-networks.git
+[submodule "network/CapsNet-Keras"]
+	path = network/CapsNet-Keras
+	url = https://github.com/XifengGuo/CapsNet-Keras.git
+[submodule "federated/PySyft"]
+	path = federated/PySyft
+	url = https://github.com/OpenMined/PySyft.git
