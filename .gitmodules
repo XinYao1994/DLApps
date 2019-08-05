@@ -142,3 +142,6 @@
 [submodule "federated/PySyft"]
 	path = federated/PySyft
 	url = https://github.com/OpenMined/PySyft.git
+[submodule "gan/Neural-Style-Transfer"]
+	path = gan/Neural-Style-Transfer
+	url = https://github.com/titu1994/Neural-Style-Transfer.git
