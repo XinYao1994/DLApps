@@ -142,3 +142,15 @@
 [submodule "federated/PySyft"]
 	path = federated/PySyft
 	url = https://github.com/OpenMined/PySyft.git
+[submodule "federated/tffederated"]
+	path = federated/tffederated
+	url = https://github.com/tensorflow/federated.git
+[submodule "NLP/Chinese-BERT-wwm"]
+	path = NLP/Chinese-BERT-wwm
+	url = https://github.com/ymcui/Chinese-BERT-wwm.git
+[submodule "gan/UGATIT"]
+	path = gan/UGATIT
+	url = https://github.com/taki0112/UGATIT.git
+[submodule "gan/UGATIT-pytorch"]
+	path = gan/UGATIT-pytorch
+	url = https://github.com/znxlwm/UGATIT-pytorch.git
